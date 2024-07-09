@@ -13,7 +13,7 @@ Installation:
 Backend (Flask API)
 
 Clone the repository:
-git clone https://github.com/your/repository.git
+git clone [https://github.com/your/repository.git](https://github.com/Manikandan2025/intel_project.git)
 cd repository
 
 Install Python dependencies using pip:
@@ -22,13 +22,17 @@ pip install -r requirements.txt
 Downloading spacy model
 python -m spacy download en_core_web_sm
 
-Download the bert-model from:
-https://drive.google.com/drive/folders/1lazhsDO7kTB6r5b4iUyyqEJsYa16Bnje?usp=sharing
+Download the bert-model zip file from this link:
+[https://drive.google.com/drive/folders/1lazhsDO7kTB6r5b4iUyyqEJsYa16Bnje?usp=sharing](https://drive.google.com/file/d/18dkfHr5QH73nK4A4J9EQXnw-LhZ-B7jC/view?usp=sharing)
 
+Unzip the downloaded bert-model and place the bert_model folder inside the backend folder
+
+Run the backend and front-end seperately
 Run the Flask API:
+locate the backend folder "cd backend" and run:
 python app.py
-Frontend (React)
 
+Frontend (React)
 Install npm packages:
 npm install
 
