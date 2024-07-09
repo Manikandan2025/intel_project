@@ -13,7 +13,7 @@ Installation:
 Backend (Flask API)
 
 Clone the repository:
-git clone [https://github.com/your/repository.git](https://github.com/Manikandan2025/intel_project.git)
+git clone [https://github.com/Manikandan2025/repository.git](https://github.com/Manikandan2025/intel_project.git)
 cd repository
 
 Install Python dependencies using pip:
